@@ -1,12 +1,14 @@
 # SCA-Cloud-School-Application
+#Dockerhub repo
+https://hub.docker.com/repository/docker/onyekaada/sca_cloud_school_application
+
 #Test Process
 #Instructions/Documentation Used for Deployment
 
 #Test Process
 1. Generated a pytest fixture called client() that configures the application for testing.
 2. The client was then used to access the root of the application (/) which if the status code when the
-   web app is accesed is 200 the test will show passed in the terminal. Output provided below.
-   ❮img src="images/pytest.jpg" ❯
+   web app is accesed is 200 the test will show passed in the terminal. Output provided in images folder.
    
    
 #Deployment
